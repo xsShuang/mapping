@@ -15,6 +15,7 @@ public class Test{
 
     @org.junit.Test
     public void send(){
+
         User user = new User();
         user.setId(10);
         User2 mapping = new MappingResolver<User2, User>().mapping(user, User2.class);
