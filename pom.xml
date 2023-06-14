@@ -15,7 +15,7 @@
     <description>dto转vo映射解析</description>
 
     <properties>
-        <hutool.version>5.1.2</hutool.version>
+        <hutool.version>5.8.19</hutool.version>
         <java.version>1.8</java.version>
     </properties>
 
